@@ -1,0 +1,5 @@
+Lo ocurre al simular este circuito es que el simulador de WIFI se esta conectando al internet, por mediod el esp8266 y el arduino,
+sin embargo, cabe recalcar que esto fue posible gracias a la manera en que los cables macho fueron conectados y a que puertos correspondian, debido a que si algun 
+cable estaba fuera de lugar o mal acomodado generaria un error por parte del codigo, por lo que no podriamos continuar, 
+otra cosa que debemos recordar es la importancia del voltaje que utilizares en las resistencias, porque sino colocamos la cantidad apropiada podria generar que
+nuestro circuito se queme.
